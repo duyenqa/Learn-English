@@ -7,5 +7,5 @@
 ## Tạo flash cards
 [Link Web](https://apps.ankiweb.net/)
 
-## Sách đánh vần tiếng anh
-[Hình sách](https://github.com/duyenqa/Learn-English/blob/main/images/sach.png "Đánh vần tiếng anh")
+## Sách đánh vần phiên âm 
+<img src="https://github.com/duyenqa/Learn-English/blob/main/images/sach.png" alt="Đánh vần tiếng anh" />
