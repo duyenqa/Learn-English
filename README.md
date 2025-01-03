@@ -3,3 +3,6 @@
 
 ## Chuyển đổi văn bản thành phiên âm quốc tế
 [Link Web](https://tophonetics.com/)
+
+## Tạo flash cards
+[Link Web](https://apps.ankiweb.net/)
