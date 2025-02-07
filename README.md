@@ -9,3 +9,8 @@
 
 ## Sách đánh vần phiên âm 
 <img src="https://github.com/duyenqa/Learn-English/blob/main/images/sach.png" alt="Đánh vần tiếng anh" />
+
+## Learn Toeic
+[Link 1](https://app.toeicets.com/)
+
+[Link 2](https://zenlishtoeic.vn/test-online-new/)
